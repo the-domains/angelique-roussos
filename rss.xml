@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Angelique Roussos]]></title>
+        <description><![CDATA[Angelique Roussos]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 17:29:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[1. Be Productive, Not busy]]></title>
+            <description><![CDATA[<article><h1>1. Be Productive, Not busy</h1><p>There are so many articles out there telling you what mistakes to 
+avoid, but what about solutions? In my personal opinion a “Don’t-do” 
+list makes me paranoid that I’m constantly doing something wrong, and 
+maybe I’m not the only one. So! What I’m going to do is give you 
+solutions for when you find yourself having a rough time.</p></article>]]></description>
+            <link>undefinedafc0a257-bf8d-4dea-b2e4-f73c7e2659f2/index.html</link>
+            <guid isPermaLink="false">afc0a257-bf8d-4dea-b2e4-f73c7e2659f2</guid>
+            <pubDate>Sun, 10 Apr 2016 17:29:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
